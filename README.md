@@ -1,7 +1,7 @@
-## Hi, i am Binfas!
+## 👋Hi, I'm Binfas!
 
 <!--
-**binnitalia/binnitalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Passionate about building efficient, real-world solutions through clean code, creative problem-solving, and continuous learning.binnitalia/binnitalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
